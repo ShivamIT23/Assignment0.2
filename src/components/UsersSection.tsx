@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, ChangeEvent } from 'react';
+import  { useState, useEffect, useRef, ChangeEvent } from 'react';
 
 interface Company {
   name: string;
